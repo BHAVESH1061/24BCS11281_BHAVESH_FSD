@@ -1,0 +1,100 @@
+/* .app-shell {
+  min-height: 100vh;
+  padding: 24px;
+  background: linear-gradient(135deg, #fff8f0 0%, #ffe7d2 100%);
+  color: #110902;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 24px;
+  border-radius: 16px;
+  background: #120101;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+}
+
+.navbar-details {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.cart-pill {
+  background: #ff7b2d;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.hero-card,
+.restaurant-card,
+.user-info-card,
+.food-item-card {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
+}
+
+.hero-badge {
+  display: inline-block;
+  padding: 6px 10px;
+  background: #ffe0c8;
+  border-radius: 999px;
+  color: #a74d00;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.hero-text,
+.restaurant-text {
+  margin-top: 8px;
+  color: #6f5a42;
+}
+
+.food-menu {
+  margin-top: 16px;
+}
+
+.menu-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin: 16px 0;
+}
+
+.food-item-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 12px;
+  cursor: pointer;
+  background: #ff7b2d;
+  color: white;
+  font-weight: 600;
+}
+
+button:hover {
+  background: #e96b15;
+}
+
+.user-info-card {
+  text-align: left;
+} */
